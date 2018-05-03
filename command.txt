@@ -1,0 +1,1 @@
+python model.py --samples_per_epoch 40000 --epochs 5 --training_dir session_data
